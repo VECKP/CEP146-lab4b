@@ -1,7 +1,7 @@
 # CEP146-lab4b My Portfolio
 # My Course Portfolio
 
-Welcome to my academic portfolio for [Course Name]!
+Welcome to my academic portfolio for CEP146!
 
 ## About Me
 - Name: [Victor Peters]
