@@ -4,10 +4,10 @@
 Welcome to my academic portfolio for CEP146!
 
 ## About Me
-- Name: [Victor Peters]
-- Major: [Computer Programming & Analysis]
-- Year: [Year 1]
-- Favorite Programming Language: [JAVA]
+- Name: Victor Peters
+- Major: Computer Programming & Analysis
+- Year: Year 1
+- Favorite Programming Language: JAVA
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
