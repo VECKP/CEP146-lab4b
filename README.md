@@ -4,7 +4,7 @@
 Welcome to my academic portfolio for [Course Name]!
 
 ## About Me
-- Name: [Vcitor Peters]
+- Name: [Victor Peters]
 - Major: [Computer Programming & Analysis]
 - Year: [Year 1]
 - Favorite Programming Language: [JAVA]
